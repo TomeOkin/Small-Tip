@@ -135,7 +135,7 @@ add the `--profile` option, the result will be show in `reports` folder:
 
 -----------------------------------------------
 
-see [gradle-tips][gradle_tips_shekhargulati] and [Gradle tips & tricks to survive the zombie apocalypse][gradle_tips_cesarmcferreira] for the more good tips.
+see [gradle-tips][gradle_tips_shekhargulati] and [Gradle tips & tricks to survive the zombie apocalypse][gradle_tips_cesarmcferreira] for more good tips.
 
 [methodscount]: http://www.methodscount.com/
 [mvnrepository]: http://mvnrepository.com/
